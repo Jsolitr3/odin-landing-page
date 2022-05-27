@@ -12,6 +12,7 @@ body{
     display: flex;
     flex-direction: column;
     max-width: 1000px;
+    padding: 0 16px;
     flex: 1;
 }
 header{
